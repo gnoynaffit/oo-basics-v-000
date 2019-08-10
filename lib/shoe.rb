@@ -11,8 +11,8 @@ class Shoe
     @adidas
   end
 
-  
-  
+
+
 
 
 end
