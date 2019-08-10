@@ -16,11 +16,11 @@ class Shoe
     @condition = new
   end
 
-   
-    
 
 
-  
+
+
+
 
 
 
