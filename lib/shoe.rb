@@ -17,6 +17,7 @@ class Shoe
 
   def new
     condition = new
+  end
 
   end
 
