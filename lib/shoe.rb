@@ -9,8 +9,8 @@ class Shoe
     @adidas
   end
 
-  def brand=(brand)
-    @brand = (brand)
+  def brand=(nike)
+    @brand = (nike)
   end
 
   def brand
