@@ -1,4 +1,4 @@
 # Make your shoe class here!
-class Adidas
+class Shoe
 
 end
