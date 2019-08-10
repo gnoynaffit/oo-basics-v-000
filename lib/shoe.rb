@@ -11,6 +11,11 @@ class Shoe
     @brand
   end
 
+  def cobble
+    puts"the shoe has been repaired"
+
+  end
+
 
 
 
