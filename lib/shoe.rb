@@ -13,5 +13,9 @@ class Shoe
     @brand = (nike)
   end
 
+  def brand
+    @brand
+  end
+
 
 end
